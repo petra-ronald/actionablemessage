@@ -1,0 +1,161 @@
+{
+    "type": "AdaptiveCard",
+    "body": [
+        {
+            "type": "Container",
+            "items": [
+                {
+                    "type": "TextBlock",
+                    "horizontalAlignment": "Center",
+                    "spacing": "ExtraLarge",
+                    "size": "ExtraLarge",
+                    "weight": "Bolder",
+                    "color": "Attention",
+                    "text": "SALE! GIVE IN TO YOUR WILD SIDE!"
+                },
+                {
+                    "type": "ColumnSet",
+                    "spacing": "Small",
+                    "separator": true,
+                    "columns": [
+                        {
+                            "type": "Column",
+                            "items": [
+                                {
+                                    "type": "Image",
+                                    "horizontalAlignment": "Center",
+                                    "spacing": "None",
+                                    "separator": true,
+                                    "url": "https://slimages.macysassets.com/is/image/MCY/products/2/optimized/9911732_fpx.tif?wid=312&fit=fit,1&$filterxlrg$",
+                                    "size": "Large"
+                                },
+                                {
+                                    "type": "TextBlock",
+                                    "horizontalAlignment": "Center",
+                                    "size": "Medium",
+                                    "text": "I.N.C. Leopard-Print Luci Clutch, Created for Macy's ",
+                                    "wrap": true
+                                }
+                            ],
+                            "width": "stretch"
+                        },
+                        {
+                            "type": "Column",
+                            "items": [
+                                {
+                                    "type": "Image",
+                                    "horizontalAlignment": "Center",
+                                    "spacing": "None",
+                                    "url": "https://slimages.macysassets.com/is/image/MCY/products/6/optimized/10101846_fpx.tif?$thumb$",
+                                    "size": "Large"
+                                },
+                                {
+                                    "type": "TextBlock",
+                                    "horizontalAlignment": "Center",
+                                    "size": "Medium",
+                                    "text": "I.N.C. Luci Python-Embossed Envelope Clutch, Created for Macy's ",
+                                    "wrap": true,
+                                    "maxLines": 3
+                                }
+                            ],
+                            "width": "stretch"
+                        },
+                        {
+                            "type": "Column",
+                            "items": [
+                                {
+                                    "type": "Image",
+                                    "horizontalAlignment": "Center",
+                                    "url": "https://slimages.macysassets.com/is/image/MCY/products/1/optimized/10066221_fpx.tif?wid=312&fit=fit,1&$filterxlrg$",
+                                    "size": "Large"
+                                },
+                                {
+                                    "type": "TextBlock",
+                                    "horizontalAlignment": "Center",
+                                    "size": "Medium",
+                                    "text": "I.N.C. Molyy Leopard-Print Party Wristlet Clutch, Created for Macy's ",
+                                    "wrap": true,
+                                    "maxLines": 3
+                                }
+                            ],
+                            "width": "stretch"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "Container",
+            "items": [
+                {
+                    "type": "ColumnSet",
+                    "horizontalAlignment": "Center",
+                    "columns": [
+                        {
+                            "type": "Column",
+                            "items": [
+                                {
+                                    "type": "Image",
+                                    "horizontalAlignment": "Center",
+                                    "url": "https://slimages.macysassets.com/is/image/MCY/products/6/optimized/10034566_fpx.tif?$thumb$",
+                                    "size": "Large"
+                                },
+                                {
+                                    "type": "TextBlock",
+                                    "horizontalAlignment": "Center",
+                                    "size": "Medium",
+                                    "text": "Vince Camuto Asymmetrical Animal-Print Top ",
+                                    "wrap": true,
+                                    "maxLines": 3
+                                }
+                            ],
+                            "width": "stretch"
+                        },
+                        {
+                            "type": "Column",
+                            "items": [
+                                {
+                                    "type": "Image",
+                                    "horizontalAlignment": "Center",
+                                    "url": "https://slimages.macysassets.com/is/image/MCY/products/7/optimized/10042217_fpx.tif?wid=312&fit=fit,1&$filterxlrg$",
+                                    "size": "Large"
+                                },
+                                {
+                                    "type": "TextBlock",
+                                    "horizontalAlignment": "Center",
+                                    "size": "Medium",
+                                    "text": "Rachel Rachel Roy Animal-Print Flared-Hem Dress",
+                                    "wrap": true,
+                                    "maxLines": 3
+                                }
+                            ],
+                            "width": "stretch"
+                        },
+                        {
+                            "type": "Column",
+                            "items": [
+                                {
+                                    "type": "Image",
+                                    "horizontalAlignment": "Center",
+                                    "url": "https://slimages.macysassets.com/is/image/MCY/products/1/optimized/10313761_fpx.tif?$thumb$",
+                                    "size": "Large"
+                                },
+                                {
+                                    "type": "TextBlock",
+                                    "horizontalAlignment": "Center",
+                                    "size": "Medium",
+                                    "text": "\nNY Collection Plus Size Long Animal-Print Jacquard Knit Cardigan ",
+                                    "wrap": true,
+                                    "maxLines": 3
+                                }
+                            ],
+                            "width": "stretch"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.0"
+}
